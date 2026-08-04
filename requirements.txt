@@ -1,0 +1,10 @@
+# QSave Pro dependencies
+#
+# Tkinter ships with most Python installations, so it is not listed here.
+# Everything below is optional — QSave Pro degrades gracefully if a package
+# is missing, but you'll get the full experience with all of them installed.
+
+keyboard>=0.13.5      # Global hotkeys (quicksave / restore from anywhere)
+Pillow>=10.0.0         # Screenshots + thumbnail gallery
+pystray>=0.19.5        # System tray icon / minimize-to-tray
+psutil>=5.9.0          # Auto-focus QSave when a linked game launches
