@@ -39,16 +39,6 @@ Hit **End**, your save folder is snapshotted. Hit **Insert**, the latest snapsho
 | 🧊 **System tray mode** | Minimize to tray, auto-minimize on close, or run fully in the background |
 | 🌗 **Modern themed UI** | A clean, dark, hand-rolled Tkinter interface — no bloated framework required |
 
-## 📸 Screenshots
-
-> _Add a few screenshots or a short GIF of the gallery view, the hotkey toast, and the preset editor here — this is the first thing visitors see._
-
-```
-docs/screenshot-gallery.png
-docs/screenshot-preset.png
-docs/screenshot-toast.gif
-```
-
 ## 🚀 Installation
 
 ### Requirements
