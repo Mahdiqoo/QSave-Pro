@@ -107,6 +107,6 @@ QSave Pro is source-available under a [custom license](LICENSE): you're free to 
 
 ## 🙏 Credits
 
-Built and maintained by **[Mahdiqoo](https://github.com/Mahdiqoo)** ([NexusMods](https://www.nexusmods.com/users/Mahdi2401)).
+Built and maintained by **[Mahdiqoo](https://github.com/Mahdiqoo)** ([NexusMods](https://www.nexusmods.com/eldenring/mods/10507)).
 
 If QSave Pro saved your run, a ⭐ on the repo goes a long way.
